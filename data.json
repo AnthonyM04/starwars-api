@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Star Wars: The Phantom Menace",
+        "episode": 1,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0120915%2F&psig=AOvVaw0-mCCaVj3aX5Tj4o7lpClv&ust=1680900859023000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjQ2uaRlv4CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 2,
+        "name": "Star Wars: Attack Of The Clones",
+        "episode": 2,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0121765%2F&psig=AOvVaw3i-D6JFMiH8M3tZtaRiTWW&ust=1680900822918000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCrudWRlv4CFQAAAAAdAAAAABAE"
+    }
+    {
+        "id": 3,
+        "name": "Star Wars: Revenge Of The Sith",
+        "episode": 3,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FStar_Wars%3A_Episode_III_%25E2%2580%2593_Revenge_of_the_Sith&psig=AOvVaw2XkqY0zexi4wHTH4yekbhG&ust=1680900931075000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIibnYmSlv4CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 4,
+        "name": "Star Wars: A New Hope",
+        "episode": 4,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0076759%2F&psig=AOvVaw3ilTK3zP8CYZ5yGBFnjQxP&ust=1680900664992000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiYvoqRlv4CFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 5,
+        "name": "Star Wars: Empire Strikes Back",
+        "episode": 5,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Empire_Strikes_Back&psig=AOvVaw1Jufqrgs-WmQSDO3ohnCqk&ust=1680900878399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCulvCRlv4CFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 6,
+        "name": "Star Wars: Return Of The Jedi",
+        "episode": 6,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0086190%2F&psig=AOvVaw2bL_m2Cv1zmih8UB8stT-p&ust=1680900903092000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDV-vuRlv4CFQAAAAAdAAAAABAE"
+    }
+]
